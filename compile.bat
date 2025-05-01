@@ -1,0 +1,2 @@
+javac -cp "lib\json-20231013.jar;lib\sqlite-jdbc-3.49.1.0.jar;." CurrencyConverterGUI.java CurrencyService.java DatabaseHandler.java HistoryDialog.java ConversionRecord.java
+java -cp "lib\json-20231013.jar;lib\sqlite-jdbc-3.49.1.0.jar;." CurrencyConverterGUI
